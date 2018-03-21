@@ -1,7 +1,7 @@
 # WINDOWS_WALLET:Getting started
 
-Download the Windows wallet from Repository. Open your windows wallet and then Close your wallet then create the file named “litecoinextreme.conf” in the folder "%APPDATA%\litecoinextreme\". 
-Paste the following text into litecoinextreme.conf and save the file.
+Download the Windows wallet from Repository. Open your windows wallet and then Close your wallet then create the file named `“litecoinextreme.conf”` in the folder `"%APPDATA%\litecoinextreme\".` 
+Paste the following text into `litecoinextreme.conf` and save the file.
 
 `addnode=nodea.ltcextreme.com`
 `addnode=nodeb.ltcextreme.com`
