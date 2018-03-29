@@ -1,4 +1,5 @@
 # WINDOWS_WALLET:Getting started
+Download and Install Windows Wallet! Backup the wallet frequently to avoid loss of fund during PC crashes.
 
 Download the Windows wallet from Repository. Open your windows wallet and then Close your wallet then create the file named `“litecoinextreme.conf”` in the folder `"%APPDATA%\litecoinextreme\".` 
 Paste the following text into `litecoinextreme.conf` and save the file.
